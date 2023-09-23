@@ -1,1 +1,4 @@
+https://data.mendeley.com/datasets/58sff5bdxd/1?fbclid=IwAR0MAi50JFJu6Af2t4qlXadPfSMoguPmofxwj1RqWg7G1PUJQsWRk0FuNeA
 
+
+Manzoor, Tahbib ; Omi, Monjurul Sharker ; Abir, Arpan Das ; Araf, Md. Wahidur Rahman ; Abir, Tanvir Ahmed ; Ashraf, Faisal Bin (2022), “Banglish (Bengali in English letter) Hate Speech Dataset”, Mendeley Data, V1, doi: 10.17632/58sff5bdxd.1
